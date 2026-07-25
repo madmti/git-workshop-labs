@@ -1,4 +1,4 @@
-# Ejercicio 02 — Configuración de Git
+# Lab 01 — Configuración de Git
 
 ## Objetivo
 
