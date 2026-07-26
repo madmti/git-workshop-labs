@@ -2,6 +2,9 @@
 
 Ejercicios con repositorios reales para el Taller de Git.
 
+- [Taller de Git (repositorio de clases)](https://github.com/madmti/git-workshop)
+- [Taller de Git (sitio web)](https://madmti.github.io/git-workshop/)
+
 ## Laboratorios
 
 | # | Laboratorio | Descripcion | Archivo | Instrucciones |
