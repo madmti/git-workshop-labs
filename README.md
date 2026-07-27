@@ -19,3 +19,4 @@ Ejercicios con repositorios reales para el Taller de Git.
 |---|------|-----------|-------|
 | 01 | [Introduccion a VCS](https://create.kahoot.it/details/e029edd6-0091-4ad9-a151-59dc39db3a61) | 11 | Conceptos esenciales de Git, estados de archivo, areas del proyecto, integridad de datos, ventajas frente a otros VCS |
 | 02 | [Estados y Staging](https://create.kahoot.it/details/5ec7a1ba-6d0e-466b-8eed-594c5091cb41) | 11 | Ciclo de vida de archivos, estados Untracked/Staged/Committed, `.gitignore`, `git status -s`, `git mv`, `git rm`, `-a` en `git commit` |
+| 03 | [Fontaneria y el modelo de objetos](https://create.kahoot.it/share/fontaneria-y-el-modelo-de-objetos/e0553081-5424-4d45-a2b9-d0c108542fc5) | 10 | Directorio `.git`, objetos internos de Git: blob, tree y commit |
