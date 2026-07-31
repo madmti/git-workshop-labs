@@ -1,5 +1,7 @@
 # Lab 03 — Deshacer, Alias y Remotos
 
+> ¿Prefieres leerlo en el navegador? Este mismo README está en [GitHub](https://github.com/madmti/git-workshop-labs/blob/main/labs/03-deshacer-alias-remotos/README.md).
+
 ## Objetivo
 
 Practicar cómo deshacer cambios (`restore`, `commit --amend`), configurar

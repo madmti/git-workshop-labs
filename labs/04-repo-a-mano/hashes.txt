@@ -1,0 +1,16 @@
+servidor.conf: 
+database.conf: 
+
+tree "config-viejo": 
+
+servidor.conf (v2): 
+database.conf (v2): 
+logging.conf : 
+
+tree "config-nuevo": 
+
+tree "final": 
+
+commit "configuracion inicial": 
+
+commit "nueva configuracion con backup": 

@@ -1,5 +1,7 @@
 # Lab 02 — Flujo básico: init, add, commit
 
+> ¿Prefieres leerlo en el navegador? Este mismo README está en [GitHub](https://github.com/madmti/git-workshop-labs/blob/main/labs/02-flujo-basico-git/README.md).
+
 ## Objetivo
 
 Practicar el ciclo `init -> add -> commit` sobre un proyecto real (una

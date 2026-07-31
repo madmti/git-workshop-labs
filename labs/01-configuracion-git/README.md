@@ -1,5 +1,7 @@
 # Lab 01 — Configuración de Git
 
+> ¿Prefieres leerlo en el navegador? Este mismo README está en [GitHub](https://github.com/madmti/git-workshop-labs/blob/main/labs/01-configuracion-git/README.md).
+
 ## Objetivo
 
 Practicar la configuración de Git **a nivel de repositorio** (`--local`),
