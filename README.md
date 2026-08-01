@@ -16,6 +16,7 @@ Ejercicios con repositorios reales para el Taller de Git.
 | 05 | [Referencias, HEAD y etiquetas](labs/05-referencias-head-tags/README.md) | Ramas y etiquetas como punteros: `update-ref`, `symbolic-ref`, `checkout` a un commit anterior y etiquetas ligeras vs. anotadas | [Descargar](dist/05-referencias-head-tags.tar.gz) | [Ver README](labs/05-referencias-head-tags/README.md) |
 | 06 | [Recuperando commits perdidos](labs/06-recuperacion-commits/README.md) | Perder commits a proposito y recuperarlos con `git reflog` y, cuando el reflog fue limpiado, con `git fsck` sobre objetos _dangling_ | [Descargar](dist/06-recuperacion-commits.tar.gz) | [Ver README](labs/06-recuperacion-commits/README.md) |
 | 07 | [Ramas y fusiones](labs/07-ramas-y-fusiones/README.md) | Flujo completo de ramificacion y fusion: `checkout -b`, fast-forward, merge commit con 2 padres y borrar ramas ya fusionadas | [Descargar](dist/07-ramas-y-fusiones.tar.gz) | [Ver README](labs/07-ramas-y-fusiones/README.md) |
+| 08 | [Resolver conflictos](labs/08-resolver-conflictos/README.md) | Provocar un conflicto real de merge, leer sus marcadores, resolverlo y gestionar las ramas con `--merged`, `--no-merged`, `-d` y `-D` | [Descargar](dist/08-resolver-conflictos.tar.gz) | [Ver README](labs/08-resolver-conflictos/README.md) |
 
 ## Quizzes (Kahoot)
 
