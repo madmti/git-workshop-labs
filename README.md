@@ -15,6 +15,7 @@ Ejercicios con repositorios reales para el Taller de Git.
 | 04 | [Construir un repo a mano](labs/04-repo-a-mano/README.md) | Fontaneria: blobs, trees y commits a mano sin `add` ni `commit` | [Descargar](dist/04-repo-a-mano.tar.gz) | [Ver README](labs/04-repo-a-mano/README.md) |
 | 05 | [Referencias, HEAD y etiquetas](labs/05-referencias-head-tags/README.md) | Ramas y etiquetas como punteros: `update-ref`, `symbolic-ref`, `checkout` a un commit anterior y etiquetas ligeras vs. anotadas | [Descargar](dist/05-referencias-head-tags.tar.gz) | [Ver README](labs/05-referencias-head-tags/README.md) |
 | 06 | [Recuperando commits perdidos](labs/06-recuperacion-commits/README.md) | Perder commits a proposito y recuperarlos con `git reflog` y, cuando el reflog fue limpiado, con `git fsck` sobre objetos _dangling_ | [Descargar](dist/06-recuperacion-commits.tar.gz) | [Ver README](labs/06-recuperacion-commits/README.md) |
+| 07 | [Ramas y fusiones](labs/07-ramas-y-fusiones/README.md) | Flujo completo de ramificacion y fusion: `checkout -b`, fast-forward, merge commit con 2 padres y borrar ramas ya fusionadas | [Descargar](dist/07-ramas-y-fusiones.tar.gz) | [Ver README](labs/07-ramas-y-fusiones/README.md) |
 
 ## Quizzes (Kahoot)
 
