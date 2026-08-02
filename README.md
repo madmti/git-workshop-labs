@@ -19,6 +19,7 @@ Ejercicios con repositorios reales para el Taller de Git.
 | 08 | [Resolver conflictos](labs/08-resolver-conflictos/README.md) | Provocar un conflicto real de merge, leer sus marcadores, resolverlo y gestionar las ramas con `--merged`, `--no-merged`, `-d` y `-D` | [Descargar](dist/08-resolver-conflictos.tar.gz) | [Ver README](labs/08-resolver-conflictos/README.md) |
 | 09 | [Ramas remotas](labs/09-ramas-remotas/README.md) | Clonar un repo compartido, `fetch` y divergencia, publicar ramas con `push`, ramas de seguimiento, segundo remoto y eliminar ramas remotas | [Descargar](dist/09-ramas-remotas.tar.gz) | [Ver README](labs/09-ramas-remotas/README.md) |
 | 10 | [Rebase en accion](labs/10-rebase-onto/README.md) | Reorganizar ramas divergentes con `git rebase`, el escenario `server`/`client` con `git rebase --onto`, fast-forward de la rama principal y limpieza del historial | [Descargar](dist/10-rebase-onto.tar.gz) | [Ver README](labs/10-rebase-onto/README.md) |
+| 11 | [Rangos de commits](labs/11-rangos-commits/README.md) | Rangos sobre un repo real: doble punto, `^`/`--not` y triple punto con `--left-right` para identificar commits exactos | [Descargar](dist/11-rangos-commits.tar.gz) | [Ver README](labs/11-rangos-commits/README.md) |
 
 ## Quizzes (Kahoot)
 
