@@ -22,6 +22,7 @@ Ejercicios con repositorios reales para el Taller de Git.
 | 11 | [Rangos de commits](labs/11-rangos-commits/README.md) | Rangos sobre un repo real: doble punto, `^`/`--not` y triple punto con `--left-right` para identificar commits exactos | [Descargar](dist/11-rangos-commits.tar.gz) | [Ver README](labs/11-rangos-commits/README.md) |
 | 12 | [Organizacion interactiva](labs/12-organizacion-interactiva/README.md) | Staging interactivo: `git add -i` (update, diff, revert) y `git add -p` con `s` para dividir hunks y armar commits parciales | [Descargar](dist/12-organizacion-interactiva.tar.gz) | [Ver README](labs/12-organizacion-interactiva/README.md) |
 | 13 | [Stash y limpieza](labs/13-stash-y-limpieza/README.md) | Guardar trabajo en curso con `git stash`, recuperarlo con `apply`/`drop`, y limpiar el working tree con `git clean -f -d` y `-x` | [Descargar](dist/13-stash-y-limpieza.tar.gz) | [Ver README](labs/13-stash-y-limpieza/README.md) |
+| 14 | [Busqueda en el historial](labs/14-busqueda-historial/README.md) | Buscar con `git grep` (`-n`, `--count`, `--and`, `--break`, `--heading`) en el working tree y en arboles antiguos, y en el historial con `git log -S`, `-G` y `-L` sobre un proyecto Terraform | [Descargar](dist/14-busqueda-historial.tar.gz) | [Ver README](labs/14-busqueda-historial/README.md) |
 
 ## Quizzes (Kahoot)
 
