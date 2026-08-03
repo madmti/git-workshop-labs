@@ -23,6 +23,7 @@ Ejercicios con repositorios reales para el Taller de Git.
 | 12 | [Organizacion interactiva](labs/12-organizacion-interactiva/README.md) | Staging interactivo: `git add -i` (update, diff, revert) y `git add -p` con `s` para dividir hunks y armar commits parciales | [Descargar](dist/12-organizacion-interactiva.tar.gz) | [Ver README](labs/12-organizacion-interactiva/README.md) |
 | 13 | [Stash y limpieza](labs/13-stash-y-limpieza/README.md) | Guardar trabajo en curso con `git stash`, recuperarlo con `apply`/`drop`, y limpiar el working tree con `git clean -f -d` y `-x` | [Descargar](dist/13-stash-y-limpieza.tar.gz) | [Ver README](labs/13-stash-y-limpieza/README.md) |
 | 14 | [Busqueda en el historial](labs/14-busqueda-historial/README.md) | Buscar con `git grep` (`-n`, `--count`, `--and`, `--break`, `--heading`) en el working tree y en arboles antiguos, y en el historial con `git log -S`, `-G` y `-L` sobre un proyecto Terraform | [Descargar](dist/14-busqueda-historial.tar.gz) | [Ver README](labs/14-busqueda-historial/README.md) |
+| 15 | [Reescribiendo la historia](labs/15-reescribiendo-historia/README.md) | Reescritura de historia local: `commit --amend` con el editor, y `rebase -i` con `reword`, `squash`, `drop`, `edit` para corregir, combinar, eliminar y dividir commits | [Descargar](dist/15-reescribiendo-historia.tar.gz) | [Ver README](labs/15-reescribiendo-historia/README.md) |
 
 ## Quizzes (Kahoot)
 
